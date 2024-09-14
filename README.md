@@ -1,1 +1,2 @@
 # trashSorter
+This project involves building a simulated trash sorting robot that uses probabilistic and statistical methods to classify and sort trash into pre-determined categories. The main idea is to simulate how the robot's sensors (e.g., weight, detection, and conductivity sensors) help classify the trash based on predefined probabilities. The robot relies on discrete and continuous probability distributions to make decisions based on the input from these sensors.
